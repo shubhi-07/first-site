@@ -1,0 +1,74 @@
+h1{
+    font-family:cursive;
+}
+p{
+    font-family: ser;
+}
+
+img{
+    width: 20%;
+    height: 30%;
+
+}
+.cloud1{
+    position: absolute;
+    right: 30px;
+}
+.cloud2{
+    position:absolute ;
+    left: 30px;
+
+}
+.mountain{
+    
+    height: 75%; 
+    width: 60%;
+}
+
+.first{
+    background-color: rgb(193, 248, 230);
+    width: 100%;
+    height: 500px;
+    padding:50px 0px 0px;
+    margin-top: 0%;
+}
+hr{
+    border: dotted black 6px;
+    width: 3%;
+    border-bottom: none;
+}
+
+.second{
+  padding-top: 20px;
+  padding-bottom: 10px;
+    width: 100%;
+    height:300px ;
+}
+.user{
+    width: 10%;
+    height: 30%;
+}
+.third{
+    width:50% auto;
+    height: 300px;
+}
+.prog{
+    width: 10%;
+    height: 30%;
+}
+.dancer{
+    width: 10%;
+    height: 30%;
+}
+.foot{
+    background-color: rgb(193, 248, 230);
+    font-size: serif;
+    padding-top:20px ;
+
+    width: 100%;
+    height: 100px;
+}
+body{
+    margin: 0px ;
+    text-align: center;
+}
